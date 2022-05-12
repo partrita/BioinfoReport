@@ -2,8 +2,14 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Afilbercept
-author: Taeyoon Kim
+author: Taeyoon kim
 logo: logo.png
+# logo                        : ""  # A path to the book logo
+copyright                   : "2022"  # Copyright year to be placed in the footer
+# Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+# Auto-exclude files not in the toc
+only_build_toc_files        : false
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
