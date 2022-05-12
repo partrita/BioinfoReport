@@ -11,10 +11,20 @@ This report contains a structure and sequence-based analysis of Aflibercept.
 
 Aflibercept is a recombinant fusion protein consisting of vascular endothelial growth factor (VEGF)-binding portions from the extracellular domains of human VEGF receptors 1 and 2, that are fused to the Fc portion of the human IgG1 immunoglobulin.
 
-# History
+## History
 
 Regeneron commenced clinical testing of aflibercept in cancer in 2001. In 2003, Regeneron signed a major deal with Aventis to develop aflibercept in the field of cancer. In 2004 Regeneron started testing the compound, locally delivered, in proliferative eye diseases, and in 2006 Regeneron and Bayer signed an agreement to develop the eye indications.
 
+## Input sequence
+
+```
+SDTGRPFVEMYSEIPEIIHMTEGRELVIPCRVTSPNITVTLKKFPLDTLIPDGKRIIWDSRKGFIISNATYKEIGLLTCE
+ATVNGHLYKTNYLTHRQTNTIIDVVLSPSHGIELSVGEKLVLNCTARTELNVGIDFNWEYPSSKHQHKKLVNRDLKTQSG
+SEMKKFLSTLTIDGVTRSDQGLYTCAASSGLMTKKNSTFVRVHEKDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISR
+TPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKT
+ISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKS
+RWQQGNVFSCSVMHEALHNHYTQKSLSLSPG
+```
 
 # Table of contents
 
