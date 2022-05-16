@@ -6,6 +6,4 @@ root: intro
 chapters:
   - file: ipynb/chapter1
   - file: ipynb/chapter2
-  - file: ipynb/chapter3
-  - file: ipynb/chapter4
 
