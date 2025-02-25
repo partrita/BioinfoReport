@@ -21,7 +21,6 @@ $jupyter-book build demo-report/Aflibercept --builder pdflatex
 
 # Tools I used
 
-- [PDM](https://pdm.fming.dev/): Python package manager with PEP 582 support.
 - [Jupyer book](https://jupyterbook.org/en/stable/intro.html)
 - Biopython
 - [Biotite](https://www.biotite-python.org/tutorial/target/index.html)

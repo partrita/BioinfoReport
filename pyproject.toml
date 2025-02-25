@@ -1,23 +1,15 @@
 [project]
-name = ""
-version = ""
-description = ""
-authors = [
-    {name = "deepthought", email = "partrita@gmail.com"},
-]
+name = "bioinforeport"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
 dependencies = [
-    "biopython>=1.79",
-    "jupyter-book>=0.12.3",
-    "biotite>=0.33.0",
-    "matplotlib>=3.5.1",
-    "nglview>=3.0.3",
-    "ipywidgets>=7.7.0",
+    "biopython>=1.85",
+    "biotite>=1.1.0",
+    "ipywidgets>=8.1.5",
+    "jupyter-book>=1.0.3",
+    "jupyterlab>=4.3.5",
+    "matplotlib>=3.10.0",
+    "nglview>=3.1.4",
 ]
-requires-python = ">=3.7"
-license = {text = "MIT"}
-
-[tool.pdm]
-
-[build-system]
-requires = ["pdm-pep517>=0.12.0"]
-build-backend = "pdm.pep517.api"
