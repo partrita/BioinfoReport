@@ -3,8 +3,11 @@ name = "bioinforeport"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+authors = [
+    { name = "deepthought", email = "deepthough@postech.ac.kr" }
+]
 requires-python = ">=3.11"
-dependencies = [
+dependencies = [    
     "biopython>=1.85",
     "biotite>=1.1.0",
     "ipywidgets>=8.1.5",
@@ -13,3 +16,6 @@ dependencies = [
     "matplotlib>=3.10.0",
     "nglview>=3.1.4",
 ]
+
+[tool.ruff.lint]
+ignore = ["E741"]
